@@ -14,5 +14,4 @@ We’re all here to make Spark better — so be respectful, open-minded, and con
 
 ---
 
-> Maintainers: Link related issue templates or guide users here from your main `README.md`.  
 > And don’t forget to spread the word — Discussions are now open!
